@@ -1,0 +1,6 @@
+data.ms/
+dumps/
+node_modules/
+package/
+config.json
+meilisearch
