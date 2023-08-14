@@ -1,0 +1,1 @@
+curl -o ../meilisearch.exe https://github.com/meilisearch/meilisearch/releases/download/v1.3.1/meilisearch-windows-amd64.exe
